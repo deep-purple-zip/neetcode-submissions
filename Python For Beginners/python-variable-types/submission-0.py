@@ -1,0 +1,11 @@
+integer_type: int = int()
+float_type: float = float()
+bool_type: bool = bool()
+string_type: str = str()
+list_type: list = list()
+
+print(type(integer_type))
+print(type(float_type))
+print(type(bool_type))
+print(type(string_type))
+print(type(list_type))
